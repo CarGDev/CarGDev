@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
+![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&hide_border=true&title_color=0B0B2A&icon_color=B6e443&bg_color=46c7e7)
 
 * Page: https://cargdev.com
 
