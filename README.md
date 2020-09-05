@@ -1,12 +1,12 @@
 ## Hi my name is Carlos Gutierrez 👋
 
 ### who am I?
-I'm mechatronic Engineer and web developer Junior with experience with JavaScript, C, Python, HTML, CSS and also technology as NodeJS, Electron JS, Express and MySQL
+I'm a mechatronic Engineer and backend node developer with experience with JavaScript, C, Python, HTML, CSS, and also technology as NodeJS, Electron JS, Express, and MySQL
 
 ### My mision
-Inspire others by improving one thing day by day, learning and strengthening my weaknesses to transform my environment by contributing my intelligence, charisma and optimism, creating opportunities that help to have a more comprehensive, true and full society
+Inspire others by improving one thing day by day, learning and strengthening my weaknesses to transform my environment by contributing my intelligence, charisma, and optimism, creating opportunities that help to have a more comprehensive, true, and full society
 
-- 🔭 I’m currently working on a desktop application using electron to integrate HTML, CSS, JS, NodeJS, Express and MySQL
+- 🔭 I’m currently working on a desktop application using electron to integrate HTML, CSS, JS, NodeJS, Express, and MySQL
 - 🌱 I’m currently learning in [Platzi](https://platzi.com/) my profile to check it out is [Platzi/CarGDev](https://platzi.com/@CarGDev/) and also I'm currently studying in an [University ISU in Puebla, Mexico](https://isu.edu.mx/?gclid=CjwKCAjw0_T4BRBlEiwAwoEiAXg8Qkh4u1ZqG8htGkVgmUTRp9fF9ARtEOZStLdJaIv4jGdJKI6HBxoCNcwQAvD_BwE)
 
 ![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=CarGDev&count_private=true&show_icons=true&hide_border=true&title_color=B6e443&icon_color=46c7e7&bg_color=0B0B2A&text_color=C2C1CE)
