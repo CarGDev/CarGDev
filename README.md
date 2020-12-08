@@ -1,5 +1,6 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cargdev.cargdev)
 ## Hi my name is Carlos Gutierrez 👋
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cargdev.cargdev)
 
 ### who am I?
 I'm a mechatronic Engineer and backend node developer with experience with JavaScript, C, Python, HTML, CSS, and also technology as NodeJS, Electron JS, Express, and MySQL
