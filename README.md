@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cargdev.cargdev)
 ## Hi my name is Carlos Gutierrez 👋
 
 ### who am I?
