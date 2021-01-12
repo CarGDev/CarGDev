@@ -17,8 +17,6 @@ Inspire others by improving one thing day by day, learning and strengthening my 
 
 * Page: https://cargdev.com
 
-**Remember: Even though you deserve it, you have to fight for it**
-
 <!--
 **CarGDev/CarGDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
