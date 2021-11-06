@@ -8,9 +8,6 @@
 <a href="https://twitter.com/CarGDev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/Cargdevv/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/cargdev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -18,12 +15,6 @@
 <h2> who am I?</h2>
 <p>
 Backend developer with a degree as a Mechatronic engineer. very passionate about continuous learning and focus to improve my knowledge of technology is known and new technologies. I would like to go straight to a position as a backend developer and contribute to the open-source community. believed that this will best further my skills. 
-</p>
-
-<h2> My mision</h2>
-
-<p>
-Inspire others by improving one thing day by day, learning and strengthening my weaknesses to transform my environment by contributing my intelligence, charisma, and optimism, creating opportunities that help to have a more comprehensive, true, and full society.
 </p>
 
 
@@ -50,10 +41,6 @@ Inspire others by improving one thing day by day, learning and strengthening my 
 * Page: https://cargdev.com on hold until learn React
 
 * If you want to contribute to my job in my github you can invite me a [drink](https://paypal.me/carlosgutierrezAgs?locale.x=es_XC) 
-
-<a href="https://paypal.me/carlosgutierrezAgs?locale.x=es_XC">
-    <img src="https://memegenerator.net/img/instances/34434167.jpg" />
-</a>
 
 <!--
 **CarGDev/CarGDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
