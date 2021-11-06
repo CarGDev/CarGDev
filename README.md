@@ -38,7 +38,7 @@ Backend developer with a degree as a Mechatronic engineer. very passionate about
 
 <h2>More</h2>
 
-* Page: https://cargdev.com on hold until learn React
+<-- * Page: https://cargdev.com on hold until learn React -->
 
 * If you want to contribute to my job in my github you can invite me a [drink](https://paypal.me/carlosgutierrezAgs?locale.x=es_XC) 
 
