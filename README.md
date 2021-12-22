@@ -27,11 +27,12 @@ Backend developer with a degree as a Mechatronic engineer. very passionate about
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact)
 
+---
 <h2>Projects</h2>
 
 <h3>Timestamp to local time</h3>
 
-- Convert the timestamp in miliseconds in a format yyyy/mm/dd hh:mm:ss with GMT-00:00 as time default, [Available as NPM package](https://www.npmjs.com/package/convert-time-gmt)
+- Convert the timestamp in miliseconds in a format yyyy/mm/dd hh:mm:ss with GMT-00:00 as time default, [Available as NPM package](https://www.npmjs.com/package/convert-time-gmt) - Repository on [Github](https://github.com/CarGDev/time-function)
 
 ---
 <h2>Technologies used</h2>
