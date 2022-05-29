@@ -1,11 +1,10 @@
 <h1>Hi my name is Carlos Gutierrez 👋</h1>
 
+[![wakatime](https://wakatime.com/badge/github/CarGDev/CarGDev.svg)](https://wakatime.com/badge/github/CarGDev/CarGDev)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cargdev.cargdev)
 
 <p align="center"> 
-    <a href="https://platzi.com/p/CarGDev/">
-        <img width="72" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
-    </a>
     <a href="https://twitter.com/CarGDev">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
@@ -14,16 +13,21 @@
     </a>
 </p>
 
+---
+
 <h2> Who am I?</h2>
 <p>
 Mechatronic engineer, NodeJs Backend developer. Passionate about continuous learning all things technology. Love contribution to the open-source community.
 
-Do you want to contribute together? Email me. 
+Do you want to contribute together? Text me
 </p>
 
 
-- 🔭 I work in Tortoise as Backend Developer, working with GCloud, Node.js, JavaScript and MySQL
-- 🌱 I’m a Platzi Master at [Platzi](https://platzi.com/); my profile to check it out is [Platzi/CarGDev](https://platzi.com/@CarGDev/).
+- 🔭 I work in iVoyant as Backend Developer, working with GCloud, Node.js, JavaScript and MySQL, Nest.js,
+
+
+---
+
 
 ![Github Stats for Carlos Gutierrez](https://github-readme-stats.vercel.app/api?username=CarGDev&count_private=true&show_icons=true&hide_border=true&title_color=B6e443&icon_color=46c7e7&bg_color=0B0B2A&text_color=C2C1CE)
 
@@ -62,5 +66,14 @@ Do you want to contribute together? Email me.
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
+---
+
+<h2>Donation</h2>
+
+<p>
+  <a href="https://paypal.me/carlosgutierrezAgs?country.x=MX&locale.x=es_XC">
+        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    </a>
+</p>
 
 
