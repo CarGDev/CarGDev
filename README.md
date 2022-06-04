@@ -11,6 +11,9 @@
     <a href="https://www.linkedin.com/in/cargdev/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://www.npmjs.com/settings/cargdev/packages">
+        <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    </a>
 </p>
 
 ---
@@ -35,6 +38,10 @@ Do you want to contribute together? Text me
 
 ---
 <h2>Projects</h2>
+
+<h3>CSV to JSON</h3>
+
+- Convert CVS files in JSON files in nodejs, [Available as NPM package](https://www.npmjs.com/package/async-convert-csv-to-json) - Repository on [Github](https://github.com/CarGDev/converter-csv-to-json)
 
 <h3>Timestamp to local time</h3>
 
