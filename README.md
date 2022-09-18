@@ -72,15 +72,3 @@ Do you want to contribute together? Text me
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-
----
-
-<h2>Donation</h2>
-
-<p>
-  <a href="https://paypal.me/carlosgutierrezAgs?country.x=MX&locale.x=es_XC">
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-    </a>
-</p>
-
-
