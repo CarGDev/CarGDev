@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/6f5572ea-047b-4351-8050-aab17a76ad39.svg)](https://wakatime.com/@6f5572ea-047b-4351-8050-aab17a76ad39)
 
-[![wakatime](https://wakatime.com/badge/github/CarGDev/CarGDev.svg)](https://wakatime.com/badge/github/CarGDev/CarGDev)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cargdev.cargdev)
 
 <p align="center"> 
