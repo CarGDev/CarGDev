@@ -1,12 +1,14 @@
-<h1>Hi my name is Carlos Gutierrez 👋</h1>
+<h1>Hi, my name is Carlos Gutierrez 👋</h1>
 
-[![wakatime](https://wakatime.com/badge/user/6f5572ea-047b-4351-8050-aab17a76ad39.svg)](https://wakatime.com/@6f5572ea-047b-4351-8050-aab17a76ad39)
+[![Wakatime](https://wakatime.com/badge/user/6f5572ea-047b-4351-8050-aab17a76ad39.svg)](https://wakatime.com/@6f5572ea-047b-4351-8050-aab17a76ad39)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cargdev.cargdev)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=CarGDev&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/CarGDev?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/CarGDev?affiliations=OWNER&style=social)
 
-<p align="center"> 
-    <a href="https://twitter.com/CarGDev">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<p align="flex-start"> 
+    <a href="https://carg.dev">
+        <img src="https://img.shields.io/badge/My%20Website-carg.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/cargdev/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,39 +18,45 @@
     </a>
 </p>
 
+
 ---
 
-<h2> Who am I?</h2>
+<h2>Who am I?</h2>
 <p>
-Mechatronic engineer, NodeJs Backend developer. Passionate about continuous learning all things technology. Love contribution to the open-source community.
+I am a Mechatronics Engineer and a Node.js Backend Developer, passionate about continuous learning and all things related to technology. I love contributing to the open-source community.
 
-Do you want to contribute together? Text me
+At iVoyant, I am actively working on the AT&T/Cricket Wireless project, where I contribute to designing, developing, and maintaining high-performance software solutions. My responsibilities include:
+
+• Assessing operational feasibility by analyzing requirements, defining problems, and proposing scalable solutions.  
+• Writing and maintaining unit and integration test cases for microservices to ensure reliability.  
+• Deploying microservices on Kubernetes in both preproduction and production environments.  
+• Enhancing UI components using React, HTML, and CSS to improve user experience.  
+• Managing UI deployments on Linux servers and maintaining Bash scripts for automation.  
+
+Previously at Tortoise, I led the migration from jQuery to Angular 12, modernizing web applications with responsive designs. I also worked on backend development, including API creation and real-time status updates. My commitment to clean, efficient code is reflected in the seamless experiences I build for users and clients.
+
+Interested in collaborating? Feel free to reach out!
 </p>
 
-
-- 🔭 I work in iVoyant as Backend Developer, working with GCloud, Node.js, JavaScript and MySQL, Nest.js,
+- 🄯 Currently working at iVoyant as a Backend Developer on the AT&T/Cricket Wireless project, focusing on designing and deploying scalable microservices with Nest.js and Node.js. I ensure operational feasibility by analyzing requirements and implementing solutions, develop and maintain unit and integration tests, and deploy services on Kubernetes in preproduction and production environments. Additionally, I work on UI enhancements using React, HTML, and CSS while managing deployments and automation on Linux servers with Bash scripting.
 
 
 ---
 
-
-![Github Stats for Carlos Gutierrez](https://github-readme-stats.vercel.app/api?username=CarGDev&count_private=true&show_icons=true&hide_border=true&title_color=B6e443&icon_color=46c7e7&bg_color=0B0B2A&text_color=C2C1CE)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact)
-
----
 <h2>Projects</h2>
 
 <h3>CSV to JSON</h3>
 
-- Convert CVS files in JSON files in nodejs, [Available as NPM package](https://www.npmjs.com/package/async-convert-csv-to-json) - Repository on [Github](https://github.com/CarGDev/converter-csv-to-json)
+- Convert CSV files to JSON format in Node.js.  
+  [Available as an NPM package](https://www.npmjs.com/package/async-convert-csv-to-json) | [GitHub Repository](https://github.com/CarGDev/converter-csv-to-json)
 
-<h3>Timestamp to local time</h3>
+<h3>Timestamp to Local Time</h3>
 
-- Convert the timestamp in miliseconds in a format yyyy/mm/dd hh:mm:ss with GMT-00:00 as time default, [Available as NPM package](https://www.npmjs.com/package/convert-time-gmt) - Repository on [Github](https://github.com/CarGDev/time-function)
+- Convert timestamps (in milliseconds) to a readable format: `yyyy/mm/dd hh:mm:ss` with `GMT-00:00` as the default timezone.  
+  [Available as an NPM package](https://www.npmjs.com/package/convert-time-gmt) | [GitHub Repository](https://github.com/CarGDev/time-function)
 
 ---
-<h2>Technologies used</h2>
+## 🛠 Tech Stack
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -60,15 +68,26 @@ Do you want to contribute together? Text me
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
-    <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarGDev&theme=onedark)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&bg_color=0d1117&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarGDev&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact&langs_count=10&hide_border=true&title_color=B6e443&icon_color=46c7e7&bg_color=0B0B2A&text_color=C2C1CE)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarGDev&theme=github_dark)
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarGDev&theme=github-dark)](https://github.com/CarGDev)
+
