@@ -43,11 +43,21 @@ Interested in collaborating? Feel free to reach out!
 
 ---
 
-<h2>Projects</h2>
+<h2>My NPM Packages</h2>
 
-<h3>CSV to JSON</h3>
+<h3>FullStory Asset SDK</h3>
 
-- Convert CSV files to JSON format in Node.js.  
+- A lightweight SDK for integrating FullStory session tracking and asset uploading in React applications. Includes a React provider, CLI automation, and cross-platform support.
+  [Available as an NPM package](https://www.npmjs.com/package/fullstory-asset-sdk) | [GitHub Repository](https://github.com/CarGDev/fullstory-asset-sdk)
+
+<h3>React Crafter</h3>
+
+- A lightweight SDK for integrating FullStory session tracking and asset uploading in React applications. Includes a React provider, CLI automation, and cross-platform support.
+  [Available as an NPM package](https://www.npmjs.com/package/react-crafter) | [GitHub Repository](https://github.com/CarGDev/reactwizard)
+
+<h3>CSV to JSON Converter</h3>
+
+- Convert CSV files to JSON format in Node.js asynchronously with an easy-to-use API.
   [Available as an NPM package](https://www.npmjs.com/package/async-convert-csv-to-json) | [GitHub Repository](https://github.com/CarGDev/converter-csv-to-json)
 
 <h3>Timestamp to Local Time</h3>
