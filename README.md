@@ -29,22 +29,22 @@
 
 <h2>Who am I?</h2>
 <p>
-I am a Mechatronics Engineer and a Node.js Backend Developer, passionate about continuous learning and all things related to technology. I love contributing to the open-source community.
+I’m a Mechatronics Engineer turned Software Engineer who thrives on continuous learning, open-source collaboration, and building resilient backend ecosystems with Node.js and Nest.js. I’m currently pursuing a Master of Science in Computer Science at the University of the Cumberlands, where I explore advanced topics in distributed systems, software architecture, and data-driven decision making.
 
-At iVoyant, I am actively working on the AT&T/Cricket Wireless project, where I contribute to designing, developing, and maintaining high-performance software solutions. My responsibilities include:
+Day to day, I help power AT&T’s Cricket Wireless experience as part of iVoyant’s engineering team. In this role I:
 
-• Assessing operational feasibility by analyzing requirements, defining problems, and proposing scalable solutions.  
-• Writing and maintaining unit and integration test cases for microservices to ensure reliability.  
-• Deploying microservices on Kubernetes in both preproduction and production environments.  
-• Enhancing UI components using React, HTML, and CSS to improve user experience.  
-• Managing UI deployments on Linux servers and maintaining Bash scripts for automation.  
+• Design and evolve high-availability microservices, translating complex requirements into scalable solutions.
+• Safeguard reliability through comprehensive unit and integration testing across distributed services.
+• Operate cloud-native workloads on Kubernetes for both preproduction and production environments.
+• Refresh customer-facing moments by enhancing React, HTML, and CSS interfaces that integrate with our backend services.
+• Streamline delivery by orchestrating Linux-based deployments and maintaining automation scripts in Bash.
 
-Previously at Tortoise, I led the migration from jQuery to Angular 12, modernizing web applications with responsive designs. I also worked on backend development, including API creation and real-time status updates. My commitment to clean, efficient code is reflected in the seamless experiences I build for users and clients.
+Previously at Tortoise, I led the transformation of legacy jQuery applications into modern Angular 12 experiences while delivering real-time APIs that kept delivery robots and operators in sync. That mix of frontend craftsmanship and backend rigor continues to shape the clean, intentional code I ship today.
 
-Interested in collaborating? Feel free to reach out!
+Curious about working together or swapping ideas? Let’s connect!
 </p>
 
-- 🄯 Currently working at iVoyant as a Backend Developer on the AT&T/Cricket Wireless project, focusing on designing and deploying scalable microservices with Nest.js and Node.js. I ensure operational feasibility by analyzing requirements and implementing solutions, develop and maintain unit and integration tests, and deploy services on Kubernetes in preproduction and production environments. Additionally, I work on UI enhancements using React, HTML, and CSS while managing deployments and automation on Linux servers with Bash scripting.
+- 🄯 Currently working at iVoyant as a Software Engineer on the AT&T/Cricket Wireless program, building and deploying scalable Nest.js and Node.js microservices on Kubernetes while elevating shared React interfaces and automation workflows.
 
 
 ---
