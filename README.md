@@ -7,11 +7,17 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CarGDev?affiliations=OWNER&style=social)
 
 <p align="flex-start"> 
-    <a href="https://carg.dev">
-        <img src="https://img.shields.io/badge/My%20Website-carg.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <a href="https://cargdev.io/">
+        <img src="https://img.shields.io/badge/Portfolio-cargdev.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="https://blog.cargdev.io/">
+        <img src="https://img.shields.io/badge/Tech%20Blog-blog.cargdev.io-orange?style=for-the-badge&logo=rss&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/cargdev/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/CarGDev?tab=repositories">
+        <img src="https://img.shields.io/badge/GitHub%20Projects-CarGDev-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://www.npmjs.com/settings/cargdev/packages">
         <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
@@ -40,6 +46,15 @@ Interested in collaborating? Feel free to reach out!
 
 - 🄯 Currently working at iVoyant as a Backend Developer on the AT&T/Cricket Wireless project, focusing on designing and deploying scalable microservices with Nest.js and Node.js. I ensure operational feasibility by analyzing requirements and implementing solutions, develop and maintain unit and integration tests, and deploy services on Kubernetes in preproduction and production environments. Additionally, I work on UI enhancements using React, HTML, and CSS while managing deployments and automation on Linux servers with Bash scripting.
 
+
+---
+
+### 🌐 Explore More
+
+- **[Portfolio – cargdev.io](https://cargdev.io/):** Discover featured projects, case studies, and the technologies that power my recent work.
+- **[Blog – blog.cargdev.io](https://blog.cargdev.io/):** Read in-depth articles about backend development, architecture decisions, and lessons learned from shipping production systems.
+- **[LinkedIn – @cargdev](https://www.linkedin.com/in/cargdev/):** Connect with me professionally, view my experience, and follow updates about my career journey.
+- **[GitHub Repositories](https://github.com/CarGDev?tab=repositories):** Explore open-source contributions, tools, and experiments I actively maintain.
 
 ---
 
