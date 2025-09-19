@@ -46,6 +46,15 @@ Interested in collaborating? Feel free to reach out!
 
 ---
 
+### 🌐 Explore More
+
+- **[Portfolio – cargdev.io](https://cargdev.io/):** Discover featured projects, case studies, and the technologies that power my recent work.
+- **[Blog – blog.cargdev.io](https://blog.cargdev.io/):** Read in-depth articles about backend development, architecture decisions, and lessons learned from shipping production systems.
+- **[LinkedIn – @cargdev](https://www.linkedin.com/in/cargdev/):** Connect with me professionally, view my experience, and follow updates about my career journey.
+- **[GitHub Repositories](https://github.com/CarGDev?tab=repositories):** Explore open-source contributions, tools, and experiments I actively maintain.
+
+---
+
 <h2>My NPM Packages</h2>
 
 <h3>FullStory Asset SDK</h3>
