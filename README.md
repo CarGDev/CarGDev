@@ -13,6 +13,9 @@
     <a href="https://www.linkedin.com/in/cargdev/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://leetcode.com/u/cargdev/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
     <a href="https://www.npmjs.com/settings/cargdev/packages">
         <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
     </a>
