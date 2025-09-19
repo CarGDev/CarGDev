@@ -6,21 +6,18 @@
 ![GitHub Followers](https://img.shields.io/github/followers/CarGDev?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/CarGDev?affiliations=OWNER&style=social)
 
-<p align="flex-start"> 
-    <a href="https://cargdev.io/">
-        <img src="https://img.shields.io/badge/Portfolio-cargdev.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<p align="left">
+    <a href="https://carg.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/My%20Website-carg.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website" />
     </a>
-    <a href="https://blog.cargdev.io/">
-        <img src="https://img.shields.io/badge/Tech%20Blog-blog.cargdev.io-orange?style=for-the-badge&logo=rss&logoColor=white" />
+    <a href="https://www.linkedin.com/in/cargdev/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.linkedin.com/in/cargdev/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://leetcode.com/u/cargdev/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <a href="https://github.com/CarGDev?tab=repositories">
-        <img src="https://img.shields.io/badge/GitHub%20Projects-CarGDev-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.npmjs.com/settings/cargdev/packages">
-        <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    <a href="https://www.npmjs.com/settings/cargdev/packages" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
     </a>
 </p>
 
