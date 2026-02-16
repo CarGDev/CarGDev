@@ -76,8 +76,6 @@
 
 ## GitHub Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarGDev&theme=onedark)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&bg_color=0d1117&text_color=ffffff&show_owner=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarGDev&theme=dark&hide_border=true)
