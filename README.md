@@ -67,10 +67,10 @@
 
 ## Top Repositories
 
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.cli&theme=onedark)](https://github.com/CarGDev/codetyper.cli)
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.nvim&theme=onedark)](https://github.com/CarGDev/codetyper.nvim)
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=ideadrop.nvim&theme=onedark)](https://github.com/CarGDev/ideadrop.nvim)
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=fullstory-asset-sdk&theme=onedark)](https://github.com/CarGDev/fullstory-asset-sdk)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.cli&show_owner=true&theme=onedark)](https://github.com/CarGDev/codetyper.cli)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.nvim&show_owner=true&theme=onedark)](https://github.com/CarGDev/codetyper.nvim)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=ideadrop.nvim&show_owner=true&theme=onedark)](https://github.com/CarGDev/ideadrop.nvim)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=fullstory-asset-sdk&show_owner=true&theme=onedark)](https://github.com/CarGDev/fullstory-asset-sdk)
 
 ---
 
@@ -78,10 +78,10 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarGDev&theme=onedark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&bg_color=0d1117&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&bg_color=0d1117&text_color=ffffff&show_owner=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarGDev&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact&langs_count=8&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact&langs_count=8&hide_border=true&show_owner=true)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarGDev&theme=github-dark)](https://github.com/CarGDev)
