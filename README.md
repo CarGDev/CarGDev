@@ -2,6 +2,8 @@
 
 📍 **Atlanta, GA** | 💼 **Backend Developer at AT&T** | 🚀 **Building AI-powered developer tools**
 
+![Profile Views](https://komarev.com/ghpvc/?username=CarGDev&color=blueviolet)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -81,7 +83,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarGDev&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact&langs_count=8&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=CarGDev&color=blueviolet)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarGDev&theme=github-dark)](https://github.com/CarGDev)
