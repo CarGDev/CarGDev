@@ -74,14 +74,4 @@
 
 ---
 
-## GitHub Stats
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarGDev&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark)](https://github-profile-trophy.vercel.app)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&bg_color=0d1117&text_color=ffffff&show_owner=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarGDev&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact&langs_count=8&hide_border=true&show_owner=true)
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarGDev&theme=github-dark)](https://github.com/CarGDev)
