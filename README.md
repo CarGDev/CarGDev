@@ -67,10 +67,10 @@
 
 ## Top Repositories
 
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.cli&show_owner=true&theme=onedark)](https://github.com/CarGDev/codetyper.cli)
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.nvim&show_owner=true&theme=onedark)](https://github.com/CarGDev/codetyper.nvim)
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=ideadrop.nvim&show_owner=true&theme=onedark)](https://github.com/CarGDev/ideadrop.nvim)
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=fullstory-asset-sdk&show_owner=true&theme=onedark)](https://github.com/CarGDev/fullstory-asset-sdk)
+- **[codetyper.cli](https://github.com/CarGDev/codetyper.cli)** - AI-powered terminal coding agent
+- **[codetyper.nvim](https://github.com/CarGDev/codetyper.nvim)** - Neovim plugin for typing statistics
+- **[ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim)** - Share ideas between devices
+- **[fullstory-asset-sdk](https://github.com/CarGDev/fullstory-asset-sdk)** - FullStory integration for React
 
 ---
 
