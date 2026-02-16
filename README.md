@@ -1,115 +1,87 @@
-<h1>Hi, my name is Carlos Gutierrez 👋</h1>
+# Hi, I'm Carlos 👋
 
+📍 **Atlanta, GA** | 💼 **Backend Developer at AT&T** | 🚀 **Building AI-powered developer tools**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
+
+> Backend developer building scalable microservices at iVoyant for AT&T/Cricket Wireless. 6+ years of experience in Node.js, NestJS, and cloud-native development.
+
+![GitHub Followers](https://img.shields.io/github/followers/CarGDev?style=flat-square&social)
+![GitHub Stars](https://img.shields.io/github/stars/CarGDev?affiliations=OWNER&style=flat-square&social)
 [![Wakatime](https://wakatime.com/badge/user/6f5572ea-047b-4351-8050-aab17a76ad39.svg)](https://wakatime.com/@6f5572ea-047b-4351-8050-aab17a76ad39)
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=CarGDev&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/CarGDev?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/CarGDev?affiliations=OWNER&style=social)
+## Current Projects
 
-<p align="left">
-    <a href="https://carg.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/My%20Website-carg.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/cargdev/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/cargdev/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
-    <a href="https://www.npmjs.com/settings/cargdev/packages" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-    </a>
-</p>
+- 🤖 **[codetyper.cli](https://github.com/CarGDev/codetyper.cli)** - AI-powered terminal coding agent that learns from your feedback
+- 🧩 **[codetyper.nvim](https://github.com/CarGDev/codetyper.nvim)** - Neovim plugin for tracking typing statistics
+- 💧 **[ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim)** - Neovim plugin for seamless idea sharing between devices
+- 🎨 **[cargdev-cyberpunk](https://github.com/CarGDev/cargdev-cyberpunk)** - Cyberpunk-themed Neovim color scheme
+- 📦 **[endorsment](https://github.com/CarGDev/endorsment)** - Lightweight platform mockup for skill endorsements (GitHub Copilot CLI Challenge)
 
+### NPM Packages
 
----
+- [codetyper-cli](https://www.npmjs.com/package/codetyper-cli) - AI-powered terminal coding agent
+- [fullstory-asset-sdk](https://www.npmjs.com/package/fullstory-asset-sdk) - FullStory integration for React
+- [react-crafter](https://www.npmjs.com/package/react-crafter) - React utilities and components
+- [async-convert-csv-to-json](https://www.npmjs.com/package/async-convert-csv-to-json) - CSV to JSON converter
+- [convert-time-gmt](https://www.npmjs.com/package/convert-time-gmt) - Timestamp conversion utilities
 
-<h2>Who am I?</h2>
-<p>
-I am a Mechatronics Engineer and a Node.js Backend Developer, passionate about continuous learning and all things related to technology. I love contributing to the open-source community.
+## What I'm Doing
 
-At iVoyant, I am actively working on the AT&T/Cricket Wireless project, where I contribute to designing, developing, and maintaining high-performance software solutions. My responsibilities include:
+- **Building at AT&T** - Working on the Cricket Wireless project at iVoyant
+- **AI-powered development** - Building tools that learn and adapt to developer workflows
+- **Open source** - Maintaining Neovim plugins and NPM packages
+- **Writing** - Sharing insights on [blog.cargdev.io](https://blog.cargdev.io/) about AI, software engineering, and developer productivity
 
-• Assessing operational feasibility by analyzing requirements, defining problems, and proposing scalable solutions.  
-• Writing and maintaining unit and integration test cases for microservices to ensure reliability.  
-• Deploying microservices on Kubernetes in both preproduction and production environments.  
-• Enhancing UI components using React, HTML, and CSS to improve user experience.  
-• Managing UI deployments on Linux servers and maintaining Bash scripts for automation.  
+## Latest Blog Posts
 
-Previously at Tortoise, I led the migration from jQuery to Angular 12, modernizing web applications with responsive designs. I also worked on backend development, including API creation and real-time status updates. My commitment to clean, efficient code is reflected in the seamless experiences I build for users and clients.
+- [CodeTyper CLI: Building an AI Coding Agent That Actually Learns From Your Feedback](https://blog.cargdev.io/codetyper-cli-building-an-ai-coding-agent-that-actually-learns-from-your-feedback/)
+- [Vibe Coding Is Addictive, and It's Quietly Destroying Software Quality](https://blog.cargdev.io/vibe-coding-is-addictive-and-its-quietly-destroying-software-quality/)
+- [Human Code vs AI Code](https://blog.cargdev.io/human-code-vs-ai-code/)
+- [Retrieval Optimization for RAG](https://blog.cargdev.io/retrieval-optimization-for-rag-data-structures-that-make-search-fast-and-reliable/)
 
-Interested in collaborating? Feel free to reach out!
-</p>
+## Certifications
 
-- 🄯 Currently working at iVoyant as a Backend Developer on the AT&T/Cricket Wireless project, focusing on designing and deploying scalable microservices with Nest.js and Node.js. I ensure operational feasibility by analyzing requirements and implementing solutions, develop and maintain unit and integration tests, and deploy services on Kubernetes in preproduction and production environments. Additionally, I work on UI enhancements using React, HTML, and CSS while managing deployments and automation on Linux servers with Bash scripting.
+- [Professional Scrum Master™ I (PSM I)](https://www.scrum.org/certificates/941271) - Scrum.org
+- [Professional Scrum Developer™ I (PSD I)](https://www.scrum.org/certificates/839967) - Scrum.org
 
+## Connect
 
----
-
-### 🌐 Explore More
-
-- **[Portfolio – cargdev.io](https://cargdev.io/):** Discover featured projects, case studies, and the technologies that power my recent work.
-- **[Blog – blog.cargdev.io](https://blog.cargdev.io/):** Read in-depth articles about backend development, architecture decisions, and lessons learned from shipping production systems.
-- **[LinkedIn – @cargdev](https://www.linkedin.com/in/cargdev/):** Connect with me professionally, view my experience, and follow updates about my career journey.
-- **[GitHub Repositories](https://github.com/CarGDev?tab=repositories):** Explore open-source contributions, tools, and experiments I actively maintain.
+[![Website](https://img.shields.io/badge/Website-blog.cargdev.io-blue?style=flat-square)](https://blog.cargdev.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cargdev/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cargdev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/cargdev/)
+[![NPM](https://img.shields.io/badge/NPM-%23000000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/settings/cargdev/packages)
 
 ---
 
-<h2>My NPM Packages</h2>
+## Top Repositories
 
-<h3>FullStory Asset SDK</h3>
-
-- A lightweight SDK for integrating FullStory session tracking and asset uploading in React applications. Includes a React provider, CLI automation, and cross-platform support.
-  [Available as an NPM package](https://www.npmjs.com/package/fullstory-asset-sdk) | [GitHub Repository](https://github.com/CarGDev/fullstory-asset-sdk)
-
-<h3>React Crafter</h3>
-
-- A lightweight SDK for integrating FullStory session tracking and asset uploading in React applications. Includes a React provider, CLI automation, and cross-platform support.
-  [Available as an NPM package](https://www.npmjs.com/package/react-crafter) | [GitHub Repository](https://github.com/CarGDev/reactwizard)
-
-<h3>CSV to JSON Converter</h3>
-
-- Convert CSV files to JSON format in Node.js asynchronously with an easy-to-use API.
-  [Available as an NPM package](https://www.npmjs.com/package/async-convert-csv-to-json) | [GitHub Repository](https://github.com/CarGDev/converter-csv-to-json)
-
-<h3>Timestamp to Local Time</h3>
-
-- Convert timestamps (in milliseconds) to a readable format: `yyyy/mm/dd hh:mm:ss` with `GMT-00:00` as the default timezone.  
-  [Available as an NPM package](https://www.npmjs.com/package/convert-time-gmt) | [GitHub Repository](https://github.com/CarGDev/time-function)
-
----
-## 🛠 Tech Stack
-
-<p align="center"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.cli&theme=onedark)](https://github.com/CarGDev/codetyper.cli)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=codetyper.nvim&theme=onedark)](https://github.com/CarGDev/codetyper.nvim)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=ideadrop.nvim&theme=onedark)](https://github.com/CarGDev/ideadrop.nvim)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CarGDev&repo=fullstory-asset-sdk&theme=onedark)](https://github.com/CarGDev/fullstory-asset-sdk)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarGDev&theme=onedark)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarGDev&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&bg_color=0d1117&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarGDev&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact&langs_count=10&hide_border=true&title_color=B6e443&icon_color=46c7e7&bg_color=0B0B2A&text_color=C2C1CE)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarGDev&layout=compact&langs_count=8&hide_border=true)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarGDev&theme=github_dark)
-
+![Profile Views](https://komarev.com/ghpvc/?username=CarGDev&color=blueviolet)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarGDev&theme=github-dark)](https://github.com/CarGDev)
-
