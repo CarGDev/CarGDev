@@ -13,19 +13,22 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)](https://rust-lang.org/)
 
 > Backend developer building scalable microservices at iVoyant for AT&T/Cricket Wireless. 6+ years of experience in Node.js, NestJS, and cloud-native development.
 
 ![GitHub Followers](https://img.shields.io/github/followers/CarGDev?style=flat-square&social)
 ![GitHub Stars](https://img.shields.io/github/stars/CarGDev?affiliations=OWNER&style=flat-square&social)
 
-## Current Projects
+---
 
-- 🤖 **[codetyper.cli](https://github.com/CarGDev/codetyper.cli)** - AI-powered terminal coding agent that learns from your feedback
-- 🧩 **[codetyper.nvim](https://github.com/CarGDev/codetyper.nvim)** - Neovim plugin for tracking typing statistics
-- 💧 **[ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim)** - Neovim plugin for seamless idea sharing between devices
-- 🎨 **[cargdev-cyberpunk](https://github.com/CarGDev/cargdev-cyberpunk)** - Cyberpunk-themed Neovim color scheme
-- 📦 **[endorsment](https://github.com/CarGDev/endorsment)** - Lightweight platform mockup for skill endorsements (GitHub Copilot CLI Challenge)
+## Top Repositories
+
+- **[codetyper.cli](https://github.com/CarGDev/codetyper.cli)** - AI-powered terminal coding agent
+- **[codetyper.nvim](https://github.com/CarGDev/codetyper.nvim)** - Neovim plugin for typing statistics
+- **[ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim)** - Share ideas between devices
+
+---
 
 ### NPM Packages
 
@@ -65,14 +68,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cargdev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/cargdev/)
 [![NPM](https://img.shields.io/badge/NPM-%23000000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/settings/cargdev/packages)
-
----
-
-## Top Repositories
-
-- **[codetyper.cli](https://github.com/CarGDev/codetyper.cli)** - AI-powered terminal coding agent
-- **[codetyper.nvim](https://github.com/CarGDev/codetyper.nvim)** - Neovim plugin for typing statistics
-- **[ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim)** - Share ideas between devices
 
 ---
 
