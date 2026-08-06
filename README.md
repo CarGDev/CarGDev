@@ -18,7 +18,6 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/CarGDev?style=flat-square&social)
 ![GitHub Stars](https://img.shields.io/github/stars/CarGDev?affiliations=OWNER&style=flat-square&social)
-[![Wakatime](https://wakatime.com/badge/user/6f5572ea-047b-4351-8050-aab17a76ad39.svg)](https://wakatime.com/@6f5572ea-047b-4351-8050-aab17a76ad39)
 
 ## Current Projects
 
@@ -30,8 +29,8 @@
 
 ### NPM Packages
 
+- [codetyper.nvim](https://github.com/CarGDev/codetyper.nvim) - Write code faster with LLM assistance while staying in control of your logic.
 - [codetyper-cli](https://www.npmjs.com/package/codetyper-cli) - AI-powered terminal coding agent
-- [fullstory-asset-sdk](https://www.npmjs.com/package/fullstory-asset-sdk) - FullStory integration for React
 - [react-crafter](https://www.npmjs.com/package/react-crafter) - React utilities and components
 - [async-convert-csv-to-json](https://www.npmjs.com/package/async-convert-csv-to-json) - CSV to JSON converter
 - [convert-time-gmt](https://www.npmjs.com/package/convert-time-gmt) - Timestamp conversion utilities
@@ -45,6 +44,7 @@
 
 ## Latest Blog Posts
 
+- [Is the University Just a Museum for Your Brain? Why Your Degree is Obsolete](https://blog.cargdev.io/is-the-university-just-a-museum-for-your-brain-why-your-degree-is-obsolete/)
 - [CodeTyper CLI: Building an AI Coding Agent That Actually Learns From Your Feedback](https://blog.cargdev.io/codetyper-cli-building-an-ai-coding-agent-that-actually-learns-from-your-feedback/)
 - [Vibe Coding Is Addictive, and It's Quietly Destroying Software Quality](https://blog.cargdev.io/vibe-coding-is-addictive-and-its-quietly-destroying-software-quality/)
 - [Human Code vs AI Code](https://blog.cargdev.io/human-code-vs-ai-code/)
@@ -54,10 +54,13 @@
 
 - [Professional Scrum Master™ I (PSM I)](https://www.scrum.org/certificates/941271) - Scrum.org
 - [Professional Scrum Developer™ I (PSD I)](https://www.scrum.org/certificates/839967) - Scrum.org
+- [MongoDB Schema Design Patterns and Antipatterns Skill Badge](https://www.credly.com/badges/4bd38819-2af0-4415-9607-c6fcd40aba4b/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/carlosgutierrez-2386/credentials/b1871c5322caa5c3?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-blog.cargdev.io-blue?style=flat-square)](https://blog.cargdev.io)
+[![Website](https://img.shields.io/badge/Website-blog.cargdev.io-blue?style=flat-square)](https://cargdev.io)
+[![Blog](https://img.shields.io/badge/Website-blog.cargdev.io-blue?style=flat-square)](https://blog.cargdev.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cargdev/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cargdev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/cargdev/)
@@ -70,7 +73,6 @@
 - **[codetyper.cli](https://github.com/CarGDev/codetyper.cli)** - AI-powered terminal coding agent
 - **[codetyper.nvim](https://github.com/CarGDev/codetyper.nvim)** - Neovim plugin for typing statistics
 - **[ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim)** - Share ideas between devices
-- **[fullstory-asset-sdk](https://github.com/CarGDev/fullstory-asset-sdk)** - FullStory integration for React
 
 ---
 
