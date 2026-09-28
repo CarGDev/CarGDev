@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋
 
-📍 **Atlanta, GA** | 💼 **Backend Developer at AT&T** | 🚀 **Building AI-powered developer tools**
+📍 **Atlanta, GA** | 💼 **Backend Developer at Ivoyant** | 🚀 **Building AI-powered developer tools**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CarGDev&color=blueviolet)
 
