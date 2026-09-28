@@ -40,7 +40,7 @@
 
 ## What I'm Doing
 
-- **Building at AT&T** - Working on the Cricket Wireless project at iVoyant
+- **Building at Ivoyant** - Working on the Cricket Wireless client project at iVoyant
 - **AI-powered development** - Building tools that learn and adapt to developer workflows
 - **Open source** - Maintaining Neovim plugins and NPM packages
 - **Writing** - Sharing insights on [blog.cargdev.io](https://blog.cargdev.io/) about AI, software engineering, and developer productivity
